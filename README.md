@@ -1,4 +1,4 @@
-# deckofcards
+# deckofcards edited
 An API to simulate a deck of cards
 
 The docs are on http://deckofcardsapi.com
